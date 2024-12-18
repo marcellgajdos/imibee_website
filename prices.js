@@ -7,7 +7,7 @@ var mez1_2="250 g: 1100 Ft"
 var meznev2="Erdei méz"
 var leiras2="Különleges ízvilág. Édes íz, de eltér a megszokottól. Magas ásványianyag tartalommal rendelkezik. Döntően nem nektárból van, hanem a tetvek által megszúrt levelek (leggyakrabban fenyő, továbbá lombos fák) édes váladékából. Erdei vegyesméz (mézharmat). Magában, csemegeként ajánlott fogyasztani."
 var mez2="900 g: 3900 Ft"
-var mez2_1="500 g: 2101 Ft"
+var mez2_1="500 g: 2100 Ft"
 var mez2_2="250 g: 1200 Ft"
 
 var meznev3="Facéliaméz"
